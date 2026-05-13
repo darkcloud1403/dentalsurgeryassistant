@@ -133,5 +133,3 @@ def run():
     print(f"Output → {RENDER_OUT}")
 
 run()
-```
-
